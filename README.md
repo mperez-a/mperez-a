@@ -13,7 +13,7 @@
 
 [**ft_printf**](https://github.com/mperez-a/42-ft_printf) <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2819982" alt="mperez-a's 42 ft_printf Score" /></a>
 
-**get_next_line** <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2844871" alt="mperez-a's 42 get_next_line Score" /></a>
+[**get_next_line**] (https://github.com/mperez-a/42-get_next_line) <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2844871" alt="mperez-a's 42 get_next_line Score" /></a>
 
 **Born2beroot** <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2856042" alt="mperez-a's 42 Born2beroot Score" /></a>
 
