@@ -17,11 +17,12 @@
 
 [**Born2beroot**](https://github.com/mperez-a/Born2beRoot) <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2856042" alt="mperez-a's 42 Born2beroot Score" /></a>
 
+[**push_swap**](https://github.com/mperez-a/push_swap) <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/project/2925254" alt="mperez-a's 42 push_swap Score" /></a>
+
 ## Contact me📥
 
 Email: mperez-a@student.42barcelona.com
 
-LinkedIn: (TO DO)🚧
 
 ## 🐼Fun fact:
 
