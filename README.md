@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm mperez-a 👋</h1>
+<h1 align="center">Hi there, I'm Manuela Perez 👋</h1>
 
 
 ## I'm currently studying at [42 Barcelona](https://www.42barcelona.com/es)👩🏻‍💻
