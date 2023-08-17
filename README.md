@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Manuela Perez 👋</h1>
 <h3 align="center">A passionate software developer student from Colombia (living in Spain)</h3>
 
-- 🔭 I’m currently studying in **42 Barcelona** where I am learning programming in C and also i'm studying in **Factoria F5** where I am training as a FullStack developer.
+- 🔭 I’m currently studying in **42 Barcelona** where I am learning programming in C/C++.
 
 
 ## 👇See my 42Cursus progress
