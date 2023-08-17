@@ -34,4 +34,4 @@
 
 
 ## Fun fact
-- 🐼 **Did you know that pandas fake their pregnancy to get extra food?😅**
+- 🐼 Did you know that pandas fake their pregnancy to get extra food?😅**
