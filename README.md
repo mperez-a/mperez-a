@@ -7,8 +7,6 @@
 
 ## 👇See my 42Cursus progress
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9q2njll01110fl404xpek1k/stats?cursusId=21&coalitionId=206" alt="mperez-a's 42 stats" /></a>
-
 [**libft**](https://github.com/mperez-a/42-libft) 
 
 [**ft_printf**](https://github.com/mperez-a/42-ft_printf)
