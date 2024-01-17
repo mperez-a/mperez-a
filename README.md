@@ -7,7 +7,7 @@
 
 ## 👇See my 42Cursus progress
 
-[**libft**](https://github.com/mperez-a/42-libft) 
+[**libft**](https://github.com/mperez-a/libft) 
 
 [**ft_printf**](https://github.com/mperez-a/42-ft_printf)
 
